@@ -30,7 +30,7 @@ Insights into salary variations based on qualifications.
 
 
 ## Key Findings
-Balanced Gender Ratio: Female employees slightly outnumber male employees.
-Young Workforce: Majority of employees are aged 25-35, suggesting a preference for mid-level professionals.
-Steady Hiring Growth: Significant hiring surge post-2020.
-Salary Variation: Employees with Master’s degrees earn significantly higher than those with Diplomas or High School qualifications.
+1. Balanced Gender Ratio: Female employees slightly outnumber male employees.
+2. Young Workforce: Majority of employees are aged 25-35, suggesting a preference for mid-level professionals.
+3. Steady Hiring Growth: Significant hiring surge post-2020.
+4. Salary Variation: Employees with Master’s degrees earn significantly higher than those with Diplomas or High School qualifications.
