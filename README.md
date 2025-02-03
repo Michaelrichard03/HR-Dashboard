@@ -3,8 +3,8 @@ This project involves analyzing employee data by pulling data from an Excel shee
 
 ## Data Sources
    
-Excel Dataset: Employee information such as Emp ID, Name, Gender, Education Qualification, Salary, Job Title, Age, and Date of Joining.
-Power BI Dashboard: Used for data visualization.
+1. Excel Dataset: Employee information such as Emp ID, Name, Gender, Education Qualification, Salary, Job Title, Age, and Date of Joining.
+2. Power BI Dashboard: Used for data visualization.
 ## Steps Involved
 ### Data Preparation
 Extract Data: Import the Excel file containing employee details.
